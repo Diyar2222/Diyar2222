@@ -1,6 +1,5 @@
 ### Hi there 👋
-### :technologist: About Me :
-I am a Front End Developer with passion to learn and create beautiful and functional websites
+Front End Developer with passion to learn and create beautiful and functional websites
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
